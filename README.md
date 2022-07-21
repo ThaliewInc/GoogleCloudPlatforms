@@ -18,7 +18,7 @@ WHERE age > 30
 ORDER BY name DESC LIMIT 10
 
 
-https://cloud.google.com/free
+> [Free GCP Trial]:https://cloud.google.com/free
 
 
 # Loading Data
@@ -49,13 +49,16 @@ bq load --autodetect public.jeopardy JEOPARDY_CSV.csv
 > [Bigquery API documentation]: https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll
 
 
-Exporting Data
+* Exporting Data
 bq extract
 gs://ca-example/games*.csv.gz
 
 
 # Review
-https://cloud.google.com/bigquery/docs
+> [Bigquery documentation].
+> 
+> [Bigquery documentation]: https://cloud.google.com/bigquery/docs
+
 customercare@thaliew.com
 
 
