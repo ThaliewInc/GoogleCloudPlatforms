@@ -55,7 +55,9 @@ gs://ca-example/games*.csv.gz
 https://cloud.google.com/bigquery/docs
 customercare@thaliew.com
 
-
+> Blockquote [foo].
+>
+> [foo]: /url
 
 
 
