@@ -42,7 +42,7 @@ Instructions
 bq mk public
 bq load --autodetect public.jeopardy JEOPARDY_CSV.csv
 
-#Streaming Data
+# Streaming Data
 Bigquery documentation
 https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll
 
@@ -51,7 +51,7 @@ bq extract
 gs://ca-example/games*.csv.gz
 
 
-#Review
+# Review
 https://cloud.google.com/bigquery/docs
 customercare@thaliew.com
 
