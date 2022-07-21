@@ -29,11 +29,14 @@ Baby names
 [foo]: /url1
 https://www.ssa.gov/OACT/babynames/names.zip
 
+
 Jeopardy Data
 https://datascienceplus.com/wp-content/uploads/2015/08/JEOPARDY_CSV.csv
 
+
 Google Cloud SDK installation instructions
 https://cloud.google.com/sdk/docs/install
+
 
 Instructions
 bq mk public
@@ -46,6 +49,7 @@ https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll
 Exporting Data
 bq extract
 gs://ca-example/games*.csv.gz
+
 
 #Review
 https://cloud.google.com/bigquery/docs
