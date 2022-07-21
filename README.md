@@ -19,3 +19,10 @@ ORDER BY name DESC LIMIT 10
 
 
 https://cloud.google.com/free
+
+
+# Loading Data
+
+Google Cloud SDK installation instructions
+https://cloud.google.com/sdk/docs/install
+
