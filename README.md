@@ -43,9 +43,8 @@ bq mk public
 bq load --autodetect public.jeopardy JEOPARDY_CSV.csv
 
 # Streaming Data
-Bigquery documentation
-> Blockquote [Bigquery documentation].
->
+
+> [Bigquery documentation].
 > [Bigquery documentation]: https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll
 
 
