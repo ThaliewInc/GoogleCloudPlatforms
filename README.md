@@ -23,18 +23,15 @@ https://cloud.google.com/free
 
 # Loading Data
 
+> [Baby names].
+> 
+> [Baby names]: https://www.ssa.gov/OACT/babynames/names.zip
 
 
-Baby names
-[foo]: /url1
-https://www.ssa.gov/OACT/babynames/names.zip
+> [Jeopardy Data].
+> 
+> [Jeopardy Data]: https://datascienceplus.com/wp-content/uploads/2015/08/JEOPARDY_CSV.csv
 
-
-Jeopardy Data
-https://datascienceplus.com/wp-content/uploads/2015/08/JEOPARDY_CSV.csv
-
-
-Google Cloud SDK installation instructions
 
 > [Google Cloud SDK installation instructions].
 > 
