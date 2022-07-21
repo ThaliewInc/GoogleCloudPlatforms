@@ -1,2 +1,5 @@
 # SQL BigQuery
-Documentation about GCP projects (Consultancy, Training and workfiles)
+
+This file contains text you can copy and paste for the examples in Cloud Academy's Introduction to Google BigQuery course.
+
+Introduction
