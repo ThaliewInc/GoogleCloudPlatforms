@@ -45,6 +45,7 @@ bq load --autodetect public.jeopardy JEOPARDY_CSV.csv
 # Streaming Data
 
 > [Bigquery documentation].
+> 
 > [Bigquery documentation]: https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll
 
 
