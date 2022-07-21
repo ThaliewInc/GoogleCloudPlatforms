@@ -35,7 +35,10 @@ https://datascienceplus.com/wp-content/uploads/2015/08/JEOPARDY_CSV.csv
 
 
 Google Cloud SDK installation instructions
-https://cloud.google.com/sdk/docs/install
+
+> [Google Cloud SDK installation instructions].
+> 
+> [Google Cloud SDK installation instructions]: https://cloud.google.com/sdk/docs/install
 
 
 Instructions
@@ -44,9 +47,9 @@ bq load --autodetect public.jeopardy JEOPARDY_CSV.csv
 
 # Streaming Data
 
-> [Bigquery documentation].
+> [Bigquery API documentation].
 > 
-> [Bigquery documentation]: https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll
+> [Bigquery API documentation]: https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll
 
 
 Exporting Data
