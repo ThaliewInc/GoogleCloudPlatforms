@@ -16,3 +16,6 @@ FROM
  `bigquery-private-data.eu_names.usa_1971_2018`
 WHERE age > 30
 ORDER BY name DESC LIMIT 10
+
+
+https://cloud.google.com/free
