@@ -41,6 +41,7 @@ ORDER BY name DESC LIMIT 10
 
 Instructions
 bq mk public
+
 bq load --autodetect public.jeopardy JEOPARDY_CSV.csv
 
 # Streaming Data
@@ -52,6 +53,7 @@ bq load --autodetect public.jeopardy JEOPARDY_CSV.csv
 
 * Exporting Data
 bq extract
+
 gs://ca-example/games*.csv.gz
 
 
