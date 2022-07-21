@@ -44,7 +44,10 @@ bq load --autodetect public.jeopardy JEOPARDY_CSV.csv
 
 # Streaming Data
 Bigquery documentation
-https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll
+> Blockquote [Bigquery documentation].
+>
+> [Bigquery documentation]: https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll
+
 
 Exporting Data
 bq extract
@@ -55,9 +58,7 @@ gs://ca-example/games*.csv.gz
 https://cloud.google.com/bigquery/docs
 customercare@thaliew.com
 
-> Blockquote [foo].
->
-> [foo]: /url
+
 
 
 
